@@ -273,10 +273,10 @@ img {
     text-decoration: underline; }
 
 .contacts-footer__link_mail {
-  background: url("../../img/footer/sms.svg") left no-repeat; }
+  background: url("../img/footer/sms.svg") left no-repeat; }
 
 .contacts-footer__link_location {
-  background: url("../../img/footer/location.svg") left no-repeat; }
+  background: url("../img/footer/location.svg") left no-repeat; }
 
 .menu-footer {
   display: -webkit-box;
